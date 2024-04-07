@@ -1,0 +1,13 @@
+../Core/Inc/notes.h:165:6:play_note	24	static
+../Core/Inc/notes.h:175:6:note_start	24	static
+../Core/Inc/notes.h:181:6:no_tone	8	static
+../Core/Inc/songs.h:201:6:play_poker_face	8	static
+../Core/Inc/songs.h:205:6:play_faded	8	static
+../Core/Inc/songs.h:209:6:play_pirates_carribbean	8	static
+../Core/Inc/songs.h:213:6:play	56	static
+../Core/Src/main.c:74:5:main	32	static
+../Core/Src/main.c:198:6:SystemClock_Config	96	static
+../Core/Src/main.c:245:13:MX_TIM2_Init	64	static
+../Core/Src/main.c:304:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:352:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:398:6:Error_Handler	8	static,ignoring_inline_asm

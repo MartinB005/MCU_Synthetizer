@@ -1,0 +1,13 @@
+../Core/Inc/notes.h:165:6:play_note	3
+../Core/Inc/notes.h:175:6:note_start	2
+../Core/Inc/notes.h:181:6:no_tone	1
+../Core/Inc/songs.h:201:6:play_poker_face	1
+../Core/Inc/songs.h:205:6:play_faded	1
+../Core/Inc/songs.h:209:6:play_pirates_carribbean	1
+../Core/Inc/songs.h:213:6:play	3
+../Core/Src/main.c:74:5:main	11
+../Core/Src/main.c:198:6:SystemClock_Config	3
+../Core/Src/main.c:245:13:MX_TIM2_Init	6
+../Core/Src/main.c:304:13:MX_USART2_UART_Init	5
+../Core/Src/main.c:352:13:MX_GPIO_Init	1
+../Core/Src/main.c:398:6:Error_Handler	1
